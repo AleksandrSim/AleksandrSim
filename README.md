@@ -1,6 +1,6 @@
 🚀 Hello, World! I'm Aleksandr Simonyan.
 
-🌌 Throughout my 6-year journey in the AI domain, I've navigated the realms of Machine Learning, Deep Learning, and Computer Vision. Leveraging state-of-the-art technologies, I've contributed to various projects ranging from animation pipelines to AI-driven boxing applications.
+🌌 Throughout my 8-year journey in the AI domain, I've navigated the realms of Machine Learning, Deep Learning, and Computer Vision. Leveraging state-of-the-art technologies, I've contributed to various projects ranging from animation pipelines to AI-driven boxing applications.
 
 🖥️ As a Machine Learning Engineer, I have a knack for applying and adapting existing AI solutions to real-world challenges, always with an eye on optimizing performance and delivering impactful results.
 
